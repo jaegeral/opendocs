@@ -136,7 +136,7 @@ Scheduled Automated Tasks {#sched_auto_tasks}
 Monitoring {#monitoring}
 -------
 
-> Is there a place to make adhoc queries about the behaviour of the serviec?  Is there a place to make pre-cooked queries?
+> Is there a place to make adhoc queries about the behaviour of the service?  Is there a place to make pre-cooked queries?
 > If so, link to the source code for the dashboards and precomputed queries.
 
 ### Logs
