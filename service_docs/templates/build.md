@@ -163,7 +163,7 @@ Roles {#roles}
 > If using a configuration management tool like Slack or Puppet, provide the
 > roles and descriptions here.
 >
-> Role Subrole Decription
+> Role Subrole Description
 >
 > ------------------------------------------------------------------------------
 >
