@@ -150,7 +150,7 @@ Monitoring {#monitoring}
 ### Metrics, probes, alerts
 
 > What sort of monitoring is done for this service?
-> Include links to relevant dashboards and alertmanager ilnks.
+> Include links to relevant dashboards and alertmanager links.
 
 ### Traces
 
